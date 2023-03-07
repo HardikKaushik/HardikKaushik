@@ -1,15 +1,13 @@
 <h1 allign="center">Hi 👋, I'm Hardik Kaushik</h1>
-<h3 allign="center">A passionate frontend developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set through external trainings. Aiming to secure an entry-level position to gain practical web developing experience with the peerless web development team.</h3>
+<h3 allign="center">A passionate Data Analyst and a Web developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set through external trainings. Aiming to secure an entry-level position to gain practical data analytics and web developing projects</h3>
 
-- 🔭 I’m currently working on **Chat-app With MERN STACK**
+- 🔭 I’m currently working on **End to End Data Science projects**
 
-- 🌱 I’m currently learning **Next.js,MERN**
+- 🌱 I’m currently learning **Data Science**
+- 
+- 💬 Ask me about **Data Analaytics,Frontend Projects,SQL**
 
-- 👯 I’m looking to collaborate on **A E-Commerce with MERN**
-
-- 💬 Ask me about **Reactjs,JavaScript,CSS,Bootstrap**
-
-- 📫 How to reach me **hardikkaushik@gmail.com**
+- 📫 How to reach me **hardikkaushik336@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12T-OjtzfgGk0STeZNhsoIacuzbgLyoEK/edit?usp=drivesdk&ouid=107495620248469864782&rtpof=true&sd=true](https://docs.google.com/document/d/12T-OjtzfgGk0STeZNhsoIacuzbgLyoEK/edit?usp=drivesdk&ouid=107495620248469864782&rtpof=true&sd=true)
 
