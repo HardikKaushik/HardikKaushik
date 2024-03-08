@@ -1,11 +1,11 @@
 <h1 allign="center">Hi 👋, I'm Hardik Kaushik</h1>
-<h3 allign="center">A passionate Data Analyst and a Web developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set through external trainings. Aiming to secure an entry-level position to gain practical data analytics and web developing projects</h3>
+<h3 allign="center">A passionate Web developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set through external trainings. Aiming to secure an entry-level position to gain practical data analytics and web developing projects</h3>
 
-- 🔭 I’m currently working on **End to End Data Science projects**
+- 🔭 I’m currently working on **web devlopment projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently enhanching my skills 
 - 
-- 💬 Ask me about **Data Analaytics,Frontend Projects,SQL**
+- 💬 Ask me about **Web devlopment- front end devlopment**
 
 - 📫 How to reach me **hardikkaushik336@gmail.com**
 
