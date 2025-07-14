@@ -1,15 +1,13 @@
 <h1 allign="center">Hi 👋, I'm Hardik Kaushik</h1>
-<h3 allign="center">A passionate Web developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set through external trainings. Aiming to secure an entry-level position to gain practical data analytics and web developing projects</h3>
+<h3 allign="center">A Full Stack Web developer from India.Focused and diligent graduate in Academics. Eager to expand my skill set having  1+ years of Professional Experience </h3>
 
-- 🔭 I’m currently working on **web devlopment projects**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently enhanching my skills 
+- 🌱 Tech Stack - Fast API, Django , Python 
 - 
-- 💬 Ask me about **Web devlopment- front end devlopment**
+- 💬 Ask me about **AI agents, MCP server, Hugging Face models, Backend Devlopment , System Design , Frontend Devlopment*
 
 - 📫 How to reach me **hardikkaushik336@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/12T-OjtzfgGk0STeZNhsoIacuzbgLyoEK/edit?usp=drivesdk&ouid=107495620248469864782&rtpof=true&sd=true](https://docs.google.com/document/d/12T-OjtzfgGk0STeZNhsoIacuzbgLyoEK/edit?usp=drivesdk&ouid=107495620248469864782&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Crack Jokes on Serious Moment**
 
