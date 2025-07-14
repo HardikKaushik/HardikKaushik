@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a **Backend Developer**
 
 - 🌱 Tech Stack - Fast API, Django , Python 
-- 
+
 - 💬 Ask me about **AI agents, MCP server, Hugging Face models, Backend Devlopment , System Design , Frontend Devlopment*
 
 - 📫 How to reach me **hardikkaushik336@gmail.com**
